@@ -17,4 +17,4 @@ See the **ipyauth** [docs](https://oscar6echo.gitlab.io/ipyauth/) for:
 
 ## 3 - Article
 
-For the broader context, see this article: [OAuth2 from inside a Jupyter notebook](TBD).
+For the broader context, see this article: [OAuth2 from inside a Jupyter notebook](https://medium.com/@olivier.borderies/oauth2-from-inside-a-jupyter-notebook-5f5e61ec5d38).

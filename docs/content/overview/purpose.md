@@ -9,7 +9,7 @@ Indeed Jupyter notebooks are the ideal platform to tap APIs when flexibility is 
 + Web page for OAuth2 authentication
 + Python scripting for data manipulation, HTTP requests, postprocessing and visualization
 
-For a more developed case for the **Jupyter notebook as the ultimate "API for Humans" tookit**, read this [article](TBD).
+For a more developed case for the **Jupyter notebook as the ultimate "API for Humans" tookit**, read this [article](https://medium.com/@olivier.borderies/oauth2-from-inside-a-jupyter-notebook-5f5e61ec5d38).
 
 ### How ?
 
