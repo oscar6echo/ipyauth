@@ -19,7 +19,7 @@ __name__ = 'ipyauth'
 name_url = __name__.replace('_', '-')
 
 
-version_info = (0, 1, 0)
+version_info = (0, 1, 1)
 __version__ = _get_version(version_info)
 
 # must be MANUALLY synced wih js.package.json.version
@@ -53,6 +53,7 @@ __classifiers__ = ['Development Status :: 4 - Beta',
 __include_package_data__ = True
 __package_data__ = {}
 __data_files__ = [
+    # classic notebook extension
     ('share/jupyter/nbextensions/ipyauth', [
         'ipyauth/ipyauth_widget/static/extension.js',
         'ipyauth/ipyauth_widget/static/index.js',
