@@ -35,19 +35,3 @@ git subtree push --prefix public/ origin pages
 # back repo top level
 cd ..
 ```
-
-
-## CI/CD
-
-But the **preferred way** is Gitlab CI/CD.  
-See the config file: [.gitlab-ci.yml](../.gitlab-ci.yml).
-
-You can:
-+ manually run it from **ipyauth** repo [pipeline section](https://gitlab.com/oscar6echo/ipyauth/pipelines)
-+ See the log and check all is good
-+ Remark: Make sure your output folder is `public/` nothing else
-
-Then the pipeline will run on each commit on branch `master`
-
-See the [Gitlab Pages help](https://gitlab.com/help/user/project/pages/index.md) for more info.
-
