@@ -60,6 +60,6 @@
         "@jupyter-widgets/base": "^2.0.2",
         "@jupyter-widgets/controls": "^1.5.3",
         "axios": "^0.19.2",
-        "lodash": "^4.17.20"
+        "lodash": "^4.17.19"
     }
 }
